@@ -1,6 +1,5 @@
 A simple node based unit test runner for simple tests that use CommonJS/Assert
 
-
   var Wick = require('../lib/wickit').Wick;
   var assert = require('assert');
 
@@ -17,11 +16,6 @@ A simple node based unit test runner for simple tests that use CommonJS/Assert
     });
   });
 
-
-
 ** Very early stage/pre-alpha at this stage **
 
-
 $ node examples/example_test.js
-
-
